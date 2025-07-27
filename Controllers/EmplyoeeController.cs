@@ -6,6 +6,10 @@ using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pag
 using JobPortal.Model;
 using JobPortal.Authentication;
 
+
+
+
+
 namespace JobPortal.Controllers
 {
     [Route("api/[controller]")]
